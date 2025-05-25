@@ -15,8 +15,5 @@ Order Tracking: Stay updated on the status of your orders with real-time trackin
 Push Notifications: Receive updates on new arrivals, promotions, and order status.
 Customer Support: Access helpful customer support directly through the app.
 
-<img width="953" alt="ss1 png" src="https://github.com/user-attachments/assets/866e2243-1273-42bc-8f53-d13bde2b9c25" />
-![ss2 png](https://github.com/user-attachments/assets/bc61737d-c284-4407-85b8-b2e37bf29176)
-<img width="947" alt="ss3 png" src="https://github.com/user-attachments/assets/3536e1f5-5b4a-4515-a8a4-b854b9facb2d" />
 
 
