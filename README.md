@@ -1,4 +1,4 @@
-Description
+DESCRIPTION
 ANYTHING is a cutting-edge mobile shopping application designed to provide users with a seamless and enjoyable online shopping experience. Whether you're looking for the latest fashion trends, electronics, home goods, or everyday essentials, ANYTHING brings a vast marketplace right to your fingertips.
 
 This app aims to simplify the shopping process with its intuitive user interface, powerful search and filtering capabilities, personalized recommendations, and secure checkout. We believe that finding and purchasing the items you need should be effortless and enjoyable, and ANYTHING is built with that philosophy at its core.
